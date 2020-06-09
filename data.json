@@ -1,0 +1,41 @@
+[
+  {
+    "id": "1n2bpb141l1nk23",
+    "purchaseTime": "2020-06-09T17:53:29.420Z",
+    "purchaseEvents": [
+      {
+        "id": "32jk4b23hj42",
+        "basketId": "1n2bpb141l1nk23",
+        "category": "Frugt",
+        "pricePrUnit": 12,
+        "promotion": 0
+      },
+      {
+        "id": "3j5h4i3j53k3",
+        "basketId": "1n2bpb141l1nk23",
+        "category": "Lampe",
+        "pricePrUnit": 500,
+        "promotion": 100
+      }
+    ],
+    "source": "Coop",
+    "storeId": "2j3h4u3242i3411a",
+    "totalValueNet": 512
+  },
+  {
+    "id": "5k6j756lk756æ7",
+    "purchaseTime": "2018-06-09T17:53:29.420Z",
+    "purchaseEvents": [
+      {
+        "id": "1lk123ij1k22",
+        "basketId": "5k6j756lk756æ7",
+        "category": "Vin",
+        "pricePrUnit": 423,
+        "promotion": 0
+      }
+    ],
+    "source": "Storebox",
+    "storeId": "3kj4h53o453333",
+    "totalValueNet": 423
+  }
+]
