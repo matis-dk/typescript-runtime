@@ -25,9 +25,7 @@ function formatPurchaseBasket(purchaseBasket: PurchaseBasket): void {
   const { totalValueNet, purchaseEvents, id } = purchaseBasket;
 
   console.log(`Formatting basket ${id}`);
-  console.log(
-    `Avg price pr. item: ${calcAverage(totalValueNet, purchaseEvents)}`
-  );
+  console.log(`Avg price pr. item: ${calcAverage(totalValueNet, purchaseEvents)}`);
 }
 
 function calcAverage(total: number, purchaseEvents: PurchaseEvent[]): number {

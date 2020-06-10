@@ -6,7 +6,8 @@
   "dependencies": {
     "@types/node": "^14.0.12",
     "runtypes": "^4.2.0",
-    "ts-node-dev": "^1.0.0-pre.44"
+    "ts-node-dev": "^1.0.0-pre.44",
+    "typescript": "^3.9.5"
   },
   "scripts": {
     "start": "tsnd --respawn ./learn.ts"
